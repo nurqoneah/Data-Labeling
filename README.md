@@ -1,5 +1,5 @@
 
-# Proyek Deteksi Hama dan Penyakit Tanaman APRIL Group
+# Proyek Deteksi Hama dan Penyakit Tanaman
 
 ## Pendahuluan
 Proyek ini bertujuan untuk mengembangkan model deteksi objek (object detection) yang mampu mengidentifikasi hama dan penyakit pada tanaman Akasia dan Eucalyptus secara akurat dan efisien. Model ini diharapkan dapat membantu meningkatkan kualitas dan produktivitas tanaman di perkebunan APRIL Group.
