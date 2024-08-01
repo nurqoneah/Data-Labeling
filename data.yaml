@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 23
+names: ['Caterpillar', 'Ceratocystis - Bubble', 'Ceratocystis - Inner', 'Cylindrocladium', 'Embun Jelaga', 'Ganoderma - Fruit Body', 'Ganoderma - Mycelium', 'Helopeltis-Withered Sprout', 'Helopeltis-insect', 'Leaf Roller - Insect', 'Leaf Roller - Leaf', 'Lobster Moth', 'Mammals Attack', 'Pasalora', 'Phalopeltis', 'Ralstonia', 'Red Root Rot - Secretion', 'Stem Borer', 'Stem Deformation', 'Termite', 'Termite - Nest', 'Wither Tree Parts', 'Xanthomonas']
+
+roboflow:
+  workspace: yolov7-kctwe
+  project: pest-and-disease-magang
+  version: 17
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yolov7-kctwe/pest-and-disease-magang/dataset/17
